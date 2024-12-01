@@ -15,8 +15,8 @@
         }
     ],
     "require": {
-        "php": "^7.0"
-    },
+    "php": ">=8.0"
+    }
     "require-dev": {
         "codedungeon/phpunit-result-printer": "^0.26.2",
         "spatie/phpunit-watcher": "^1.12",
